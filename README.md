@@ -1,1 +1,1 @@
-A genetic algorithm implemetation in Dart for a university project.
+A genetic algorithm implemetation in Dart for an university project.
